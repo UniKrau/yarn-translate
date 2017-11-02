@@ -1,6 +1,5 @@
-# Hadoop 和 YARN 相关官方翻译文档
+# Hadoop: YARN Federation的翻译
 
 ## 此文仅供参考，不做商业用途。有不明之处，请阅读官方指南，谢谢 ！！
-
-### 与工作紧密结合的一点积累
-
+* Purpose
+* Architecture

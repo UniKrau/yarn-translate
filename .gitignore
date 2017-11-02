@@ -4,6 +4,7 @@
 .LSOverride
 # Thumbnails
 ._*
+.idea/
 
 
 # Compiled class file
